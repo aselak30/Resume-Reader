@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e297c006-d2e8-4287-8cf2-a0fe6873ba36" name="Changes" comment="Made changes to the Auth API.">
+      <change afterPath="$PROJECT_DIR$/Questions.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/quiz_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/models.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2iKJ3Kk4teyaGvri6lOSm6qtiZq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Flask server.Flask (run.py).executor": "Run",
+    "Flask server.Resume_Radar_Backend.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/models" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e297c006-d2e8-4287-8cf2-a0fe6873ba36" name="Changes" comment="" />
+      <created>1719233134700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719233134700</updated>
+      <workItem from="1719233143320" duration="4543000" />
+      <workItem from="1719337350130" duration="7245000" />
+      <workItem from="1719419138568" duration="7272000" />
+      <workItem from="1719516163876" duration="797000" />
+      <workItem from="1719517694109" duration="1124000" />
+      <workItem from="1722378420159" duration="6079000" />
+      <workItem from="1722428124270" duration="11152000" />
+      <workItem from="1722457050944" duration="483000" />
+      <workItem from="1722487133602" duration="288000" />
+      <workItem from="1723608584339" duration="2633000" />
+      <workItem from="1724952457518" duration="2011000" />
+      <workItem from="1725053912679" duration="11490000" />
+      <workItem from="1725176482225" duration="1857000" />
+      <workItem from="1725241159308" duration="628000" />
+      <workItem from="1725262926962" duration="1206000" />
+      <workItem from="1725296250685" duration="2309000" />
+      <workItem from="1725397042697" duration="654000" />
+      <workItem from="1725612532399" duration="7732000" />
+      <workItem from="1725698057264" duration="1762000" />
+      <workItem from="1725771133693" duration="637000" />
+      <workItem from="1725851246742" duration="611000" />
+      <workItem from="1725894060678" duration="1762000" />
+      <workItem from="1725981568082" duration="588000" />
+      <workItem from="1726032084775" duration="2083000" />
+      <workItem from="1726234526954" duration="5002000" />
+      <workItem from="1726282824329" duration="4947000" />
+      <workItem from="1726313159439" duration="593000" />
+      <workItem from="1726324751823" duration="9677000" />
+      <workItem from="1726531397786" duration="6000" />
+      <workItem from="1726543650006" duration="887000" />
+      <workItem from="1726789606874" duration="5748000" />
+    </task>
+    <task id="LOCAL-00001" summary="Completed initial configurations &amp; pre login API's(Require minor fixes).">
+      <option name="closed" value="true" />
+      <created>1719348005611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719348005611</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed initial configurations &amp; pre login API's(Require minor fixes).">
+      <option name="closed" value="true" />
+      <created>1719348116386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719348116386</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed issues with OTP and Session API's.">
+      <option name="closed" value="true" />
+      <created>1719427921377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719427921377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed the registration process.">
+      <option name="closed" value="true" />
+      <created>1719516938339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719516938339</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Configured the running issue.">
+      <option name="closed" value="true" />
+      <created>1722452653702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722452653702</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Made changes to the Auth API.">
+      <option name="closed" value="true" />
+      <created>1725648298117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725648298117</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Completed initial configurations &amp; pre login API's(Require minor fixes)." />
+    <MESSAGE value="Fixed issues with OTP and Session API's." />
+    <MESSAGE value="Completed the registration process." />
+    <MESSAGE value="Configured the running issue." />
+    <MESSAGE value="Made changes to the Auth API." />
+    <option name="LAST_COMMIT_MESSAGE" value="Made changes to the Auth API." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Resume_Radar_Backend$Flask__run_py_.coverage" NAME="Flask (run.py) Coverage Results" MODIFIED="1722443852899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Resume_Radar_Backend$Resume_Radar_Backend.coverage" NAME="Resume_Radar_Backend Coverage Results" MODIFIED="1726796580274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
