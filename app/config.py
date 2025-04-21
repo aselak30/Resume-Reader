@@ -10,6 +10,7 @@ class Config:
     SECRET_KEY = os.getenv('SECRET_KEY')
     # SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URI')
     SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:@localhost:3306/resume_reader'
+    db_url = os.getenv("DATABASE_URL")
 
     
 
